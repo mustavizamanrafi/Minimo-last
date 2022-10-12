@@ -1,0 +1,283 @@
+header{
+max-width: 90%;
+margin: 0 auto;
+margin-top: 40px;
+}
+.logo{
+   width: 20%; 
+   float: left;
+
+}
+.menu{
+    width: 80%;
+    float: right;
+    text-align: right;
+}
+.menu nav a{
+    text-transform: uppercase;
+    color: #626262;
+    font-size: 15px;
+    text-decoration: none;
+    margin-left: 120px;
+}
+  .bannner{
+    max-width: 90%;
+    margin: 0 auto;
+    margin-top: 40px;
+  }  
+  .bannner img{
+    width: 100%;
+    margin-top: 40px;
+  }
+  .about{
+    max-width: 80%;
+    margin:0 auto;
+    margin-top: 80px;
+    overflow: hidden;
+  }
+  .about h5{
+    text-transform: uppercase;
+    font-size: 17px;
+    font-weight: 200;
+    color: #807f7f;
+  }
+.about h1{
+  
+    font-size: 35px;
+    font-weight: 200;
+    color:  #414141;
+}
+.about p{
+  
+  font-size: 20px;
+  font-weight: 200;
+  color: #555454;
+}
+.about h5{
+  text-transform: uppercase;
+    font-size: 17px;
+    font-weight: 200;
+    color: #949494;
+    margin-top: 40px;
+}
+.lifestyle{
+  max-width: 80%;
+  margin: 0 auto;
+  margin-top: 100px;
+  overflow: hidden;
+}
+.left-lifestyle{
+  width: 47%;
+  float: left;
+}
+.left-lifestyle img{
+  width: 100%;
+}
+.left-lifestyle h5{
+  text-transform: uppercase;
+    font-size: 17px;
+    font-weight: 200;
+    color: #949494;
+    margin-top: 40px;
+}
+.left-lifestyle h1{
+    font-size: 30px;
+    font-weight: 200;
+    color:  #414141;
+}
+.left-lifestyle p{
+font-size: 20px;
+}
+.right-lifestyle{
+  width: 47%;
+  float: right;
+}
+.right-lifestyle img{
+  width: 100%;
+}
+.right-lifestyle h5{
+  text-transform: uppercase;
+  font-size: 17px;
+  font-weight: 200;
+  color: #949494;
+  margin-top: 40px;
+}
+.right-lifestyle h1{
+  font-size: 30px;
+  font-weight: 200;
+  color: #414141;
+}
+.right-lifestyle p{
+  font-size: 20px;
+}
+.photodariy{
+  max-width: 80%;
+  margin: 0  auto;
+  overflow: hidden;
+  
+}
+.left-photodairy{
+  width: 47%;
+  float:left;
+  margin-top: 70px;
+}
+.left-photodairy img{
+  width: 100%;
+}
+.left-photodairy h5{
+  text-transform: uppercase;
+  font-size: 17px;
+  font-weight: 200;
+  color: #949494;
+  margin-top: 40px;
+}
+.left-photodairy h1{
+  font-size: 30px;
+  font-weight: 200;
+  color: #414141;
+}
+.left-photodairy p{
+  font-size: 20px;
+}
+.right_photodairy{
+  width: 47%;
+  float: right;
+}
+.right_photodairy img{
+  width: 100%;
+ margin-top: 70px;
+}
+.right_photodairy h5{
+  text-transform: uppercase;
+  font-size: 17px;
+  font-weight: 200;
+  color: #949494;
+  margin-top: 40px;
+}
+.right_photodairy h1{
+  font-size: 30px;
+  font-weight: 200;
+  color: #414141;
+}
+.right_photodairy p{
+  font-size: 20px;
+}
+/* bor000000 sart */
+.border{
+  padding: 60px 0;
+ background-color: #eceae6;
+ width: 100%;
+ margin-top: 50px;
+ text-align: center;
+}
+.border h1{
+  color: #4b4b4b;
+  font-size: 30px;
+  font-weight: 400;
+   
+}
+.border form{
+  width: 340px;
+  margin: 0 auto;
+  position: relative;
+}
+.border form input{
+  width: 340px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border: 0;
+  border-bottom: 2px solid #333;
+  background-color: transparent;
+}
+.border form input::placeholder{
+  font-size: 16px;
+}
+
+.border form img{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  top: 14px;
+}
+/* bor00000000 end */
+
+.border-1{
+  padding: 60px 0;
+  background-color: #eceae6;
+  width: 100%;
+  margin-top: 80px;
+  text-align: center;
+  
+}
+.border-1 h1{
+  color: #4b4b4b;
+  font-size: 30px;
+ font-weight: 400;
+}
+.border-1 form{
+width: 340px;
+margin: 0 auto;
+position: relative;
+}
+.border-1 form input{
+  width: 340px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border: 0;
+  border-bottom: 2px solid rgb(27, 27, 27);
+ background-color: transparent;
+}
+.border-1 form input ::placeholder{
+  font-size: 16px;
+}
+.border-1 form img{
+position: absolute;
+right: 0;
+bottom: 0;
+top: 20px;
+}
+
+
+.border-2{
+  padding: 80px 0 ;
+  background-color: #eceae6;
+  width: 100%;
+  margin-top: 80px;
+  text-align: center;
+}
+.border-2 h1{
+  color: #626262;
+  font-size: 30px;
+ font-weight: 400;
+}
+
+
+.border-2 form{
+  width: 340px;
+  margin: 0 auto;
+  position: relative;
+}
+.border-2 form  input{
+  width: 340px;
+  padding-top: 20px;
+  padding-bottom:  10px;
+  border: 0;
+  border-bottom: 2px solid #333;
+  background-color: transparent;
+}
+.border-2 form input ::placeholder{
+  font-size: 16px;
+}
+
+
+.border-2 form img{
+  position:absolute;
+  right: 0;
+  bottom: 0;
+  top: 14px;
+}
+
+
+
+
+
